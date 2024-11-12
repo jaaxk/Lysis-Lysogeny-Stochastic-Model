@@ -1,6 +1,6 @@
 # Stochastic Modeling of Bacteriophage Infection Cycles
 
-This project provides a MATLAB-based implementation for simulating bacteriophage infection cycles, focusing on stochastic processes that distinguish between the **lytic** and **lysogenic** cycles. The model leverages **Gillespie’s Algorithm** to capture the random nature of chemical reactions occurring at low molecular counts, providing a more realistic simulation than deterministic approaches.
+This project provides a MATLAB-based implementation for simulating bacteriophage infection cycles, focusing on stochastic processes that distinguish between the **lytic** and **lysogenic** cycles. The model leverages **Gillespie’s Algorithm** to capture the random nature of chemical reactions occurring at low molecular counts, providing a more realistic simulation than deterministic approaches. This project was completed as part of a course I took at Stony Brook University, BIO/AMS332 with professor David Green.
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
